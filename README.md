@@ -1,4 +1,6 @@
-- 👋 Hi, I’m sepehr21ar
+<marquee behavior="scroll" direction="left">👋 Hi, I’m sepehr21ar</marquee>
+
+- 
 - 👀 I’m interested in ML, DL, CV, and
 -  if i get free time in future i will take hand in RFL & C++ micro controlers
 - 🌱 I’m currently learning Deep Learning
