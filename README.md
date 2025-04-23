@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI5WmA7l3PnM6Ju/giphy.gif" width="100%" />
-</p>
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://media.giphy.com/media/3oEjI5WmA7l3PnM6Ju/giphy.gif" width="100%" alt="Background Image" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 40px; font-weight: bold;">
+    Hi 👋, I'm Sepehr21ar
+  </div>
+</div>
 
-<h1 align="center" style="background-color: #f0f0f0;">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center" style="background-color: #ffd700; color: #000;">Let’s change the world and grow future minds!</h3>
 
 <p align="center">
