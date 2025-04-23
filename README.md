@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center">Let’s change the world and grow future minds!</h3>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
 - 👀 I'm passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and exploring **C++**.
 - 🛠️ Currently diving into **Reinforcement Learning (RFL)** and planning to revisit **C++** in the future.
 - 🌱 Currently learning **Deep Learning** with the **TensorFlow** framework.
