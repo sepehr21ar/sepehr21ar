@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning with Tensorflow frame work.
 - 💞️ I’m looking to collaborate on diff project about hole action in complate action (back frond ml ...) & and even team for just ai
   
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/sepehr21ar)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/sepehr21ar)
 <!---
 sepehr21ar/sepehr21ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
