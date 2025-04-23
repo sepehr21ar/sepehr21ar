@@ -1,11 +1,11 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://media.giphy.com/media/3oEjI5WmA7l3PnM6Ju/giphy.gif" width="100%" alt="Background Image" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 40px; font-weight: bold;">
-    Hi 👋, I'm Sepehr21ar
-  </div>
-</div>
+speak in persain , see this and i want have back ground color in read me :
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI5WmA7l3PnM6Ju/giphy.gif" width="100%" />
+</p>
 
-<h3 align="center" style="background-color: #ffd700; color: #000;">Let’s change the world and grow future minds!</h3>
+
+<h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
+<h3 align="center">Let’s change the world and grow future minds!</h3>
 
 <p align="center">
   <a href="https://twitter.com/" target="blank">
@@ -19,7 +19,7 @@
 - 🤝 I'm always open to collaborating on **end-to-end AI projects**—from backend to frontend, especially those powered by **Machine Learning**.
 - 🤖 Excited to join teams that are focused on **AI** research and development.
 
-<h3 align="center" style="background-color: #f0f0f0;">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sepehr21ar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="center" style="background-color: #f0f0f0;">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -47,4 +47,18 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+</p>
