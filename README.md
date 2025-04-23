@@ -1,9 +1,3 @@
-speak in persain , see this and i want have back ground color in read me :
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI5WmA7l3PnM6Ju/giphy.gif" width="100%" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center">Let’s change the world and grow future minds!</h3>
 
