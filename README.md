@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center">Let’s change the world and grow future minds!</h3>
 
-- 👀 I'm passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and exploring **C++**.
+- 👀 I'm passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and exploring **C++** | even i have skills in Power Bi and analysis in python.
 - 🛠️ Currently diving into **Reinforcement Learning (RFL)** and planning to revisit **C++** in the future.
 - 🌱 Currently learning **Deep Learning** with the **TensorFlow** framework.
 - 🤝 I'm always open to collaborating on **end-to-end AI projects**—from backend to frontend, especially those powered by **Machine Learning**.
