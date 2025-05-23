@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 </p>
-[click here] To view my CV,(https://gleeful-swan-626360.netlify.app/).
+Click this [link](https://gleeful-swan-626360.netlify.app/) to see my CV.
 
 
 
