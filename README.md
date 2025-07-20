@@ -54,3 +54,4 @@
   Click this <a href="https://gleeful-swan-626360.netlify.app/" target="_blank" rel="noreferrer">link</a> to see my CV.
 </h2>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=radical)
