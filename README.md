@@ -53,5 +53,5 @@
 </p>
 
 <h2 align="center">
-  Click this <a href="https://gleeful-swan-626360.netlify.app/" target="_blank" rel="noreferrer">link</a> to see my CV.
+  Click this <a href="https://huggingface.co/spaces/sepehr21ar/sepehr-asgarian-portfolio" target="_blank" rel="noreferrer">link</a> to see my CV.
 </h2>
