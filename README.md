@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center">Let’s change the world and grow future minds!</h3>
+<h3 align="center">🎬 My Demo Video</h3>
+
+<p align="center">
+  <video src="https://github.com/sepehr21ar/sepehr21ar/raw/main/assets/grok-video-452bcae9-83a9-42d9-8ddc-d16ab9414646.mp4"
+         controls
+         width="640"
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </video>
+</p>
+
+<p align="center">
+  🎥 <a href="https://github.com/sepehr21ar/sepehr21ar/raw/main/assets/demo.mp4">Click here if the video doesn’t load</a>
+</p>
 
 - 👀 Passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and building **LLMs** for  production-grade applications. 
 - 🛠️ Hands-on with **LangChain** for LLM orchestration, **FastAPI** for scalable async APIs, data analysis in **Python/Pandas/Numpy/Scikit‑learn**, and business analytics with **Power BI**.
