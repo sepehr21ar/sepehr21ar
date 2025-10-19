@@ -3,7 +3,7 @@
 <h3 align="center">🎬 My Demo Video</h3>
 
 <p align="center">
-  <video src="https://github.com/sepehr21ar/sepehr21ar/raw/main/assets/grok-video-452bcae9-83a9-42d9-8ddc-d16ab9414646.mp4"
+  <video src="https://github.com/sepehr21ar/raw/main/assets/grok-video-452bcae9-83a9-42d9-8ddc-d16ab9414646.mp4"
          controls
          width="640"
          style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
