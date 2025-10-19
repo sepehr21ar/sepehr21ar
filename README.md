@@ -2,13 +2,6 @@
 <h3 align="center">Let’s change the world and grow future minds!</h3>
 <h3 align="center">🎬 My Demo Video</h3>
 
-<p align="center">
-  <a href="https://github.com/sepehr21ar/assets/raw/main/grok-video-452bcae9-83a9-42d9-8ddc-d16ab9414646.mp4">
-    <img src="https://raw.githubusercontent.com/sepehr21ar/assets/main/demo-thumbnail.png" 
-         alt="Watch the demo video" width="640" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
-  </a>
-</p>
-
 
 - 👀 Passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and building **LLMs** for  production-grade applications. 
 - 🛠️ Hands-on with **LangChain** for LLM orchestration, **FastAPI** for scalable async APIs, data analysis in **Python/Pandas/Numpy/Scikit‑learn**, and business analytics with **Power BI**.
