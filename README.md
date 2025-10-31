@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sepehr21ar</h1>
 <h3 align="center">Let’s change the world and grow future minds!</h3>
-<h3 align="center">🎬 My Demo Video</h3>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=sepehr21ar&repo=sepehr21ar&color=blue)
 
 - 👀 Passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and building **LLMs** for  production-grade applications. 
 - 🛠️ Hands-on with **LangChain** for LLM orchestration, **FastAPI** for scalable async APIs, data analysis in **Python/Pandas/Numpy/Scikit‑learn**, and business analytics with **Power BI**.
