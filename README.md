@@ -8,7 +8,7 @@
 - Proficient with TensorFlow  for model training, and deployment in workflows.
 - 🤝 Open to collaborating on **end‑to‑end AI projects**—from data and modeling to API deployment and lightweight frontends, especially LLM-powered products. 
 - 🤖 Excited to join teams focused on **AI** research, applied ML, and intelligent product development. 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sepehr21ar" target="_blank">
@@ -57,3 +57,6 @@
 <h2 align="center">
   Click this <a href="https://sepehr21ar.github.io/" target="_blank" rel="noreferrer">link</a> to see my CV.
 </h2>
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
