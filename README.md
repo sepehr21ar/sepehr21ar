@@ -66,14 +66,7 @@
         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
         width="100%"
       />
-    </td>
-    <td width="70%" align="center">
-      <img
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sepehr21ar&layout=pie&theme=github_dark&hide_border=true"
-        width="100%"
-      />
-    </td>
-  </tr>
+    </tr>
 </table>
 
 
