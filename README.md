@@ -59,4 +59,29 @@
 </h2>
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" align="center">
+      <img
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sepehr21ar&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        width="100%"
+      />
+    </td>
+    <td width="70%" align="center">
+      <img
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sepehr21ar&layout=pie&theme=github_dark&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<!--
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sepehr21ar&theme=dracula&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr21ar&theme=dracula&layout=compact&hide_border=true" height="165" />
+</div>
+-->
+---
