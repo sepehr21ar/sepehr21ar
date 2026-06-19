@@ -3,8 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sepehr21ar&style=for-the-badge&color=brightgreen)
 
-- 👀 Passionate about **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, and building **LLMs** for  production-grade applications. 
-- 🛠️ Hands-on with **LangChain** for LLM orchestration, **FastAPI** for scalable async APIs, data analysis in **Python/Pandas/Numpy/Scikit‑learn/ Power Bi**, and business analytics with **Power BI**.
+- 👀 Passionate about **AI**, and building **LLMs** for  production-grade applications. 
+- 🛠️ Hands-on with **LangChain** for LLM orchestration, **FastAPI** for scalable async APIs, data analysis in **Python/Pandas/Numpy/Scikit‑learn**, and business analytics with **Power BI**.
 - Proficient with TensorFlow  for model training, and deployment in workflows.
 - 🤝 Open to collaborating on **end‑to‑end AI projects**—from data and modeling to API deployment and lightweight frontends, especially LLM-powered products. 
 - 🤖 Excited to join teams focused on **AI** research, applied ML, and intelligent product development. 
